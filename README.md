@@ -66,14 +66,10 @@ Use Fake Website Detector today!
 Or, if you want to make it even more visually appealing:
 
 
-
-Stay Safe Online! 🔒
-
-
 Detect potentially fake websites with our cutting-edge tool.
 
 
-Features
+📶Features📶
 
 
 URL Checker
@@ -85,7 +81,7 @@ Responsive Design
 Visually Appealing
 
 
-Technologies
+💻Technologies💻
 
 
 HTML5
@@ -97,7 +93,7 @@ JavaScript
 Bootstrap 5
 
 
-Usage
+💠💠💠Usage💠💠💠
 
 
 Step 1: Enter URL
@@ -105,17 +101,5 @@ Step 1: Enter URL
 Step 2: Click Check
 
 Step 3: Get Feedback
-
-
-License
-
-
-MIT License
-
-
-Contribute
-
-
-Pull requests welcome!
 
 
