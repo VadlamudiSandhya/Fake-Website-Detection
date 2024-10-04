@@ -1,12 +1,12 @@
-                                                                Fake Website Detector 🚨
+                                                        Fake Website Detector 🚨
 
 
-                                                          Protect Yourself from Online Scams! 🚫
+                                                  Protect Yourself from Online Scams! 🚫
 
 
-                   Fake Website Detector is a cutting-edge web tool that helps you identify potentially fake or fraudulent websites. 
+            Fake Website Detector is a cutting-edge web tool that helps you identify potentially fake or fraudulent websites. 
                                                               
-                                                                  Stay safe online!
+                                                           Stay safe online!
 
 
 Key Features 🔑
